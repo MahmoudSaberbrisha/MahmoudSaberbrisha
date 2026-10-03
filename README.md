@@ -1,278 +1,270 @@
-<div align="center">👨‍💻 Mahmoud Saber Mahmoud Bahnasy
+<div align="center">
 
-Software Engineer · Full-Stack Developer · Mobile App Architect · AI Enthusiast
+# 👨‍💻 Mahmoud Saber Mahmoud Bahnasy
 
-<a href="https://github.com/MahmoudSaberbrisha">
-  <img src="https://img.shields.io/badge/GitHub-MahmoudSaberbrisha-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+%F0%9F%9A%80;Full-Stack+Web+Applications+%F0%9F%8C%90;Cross-Platform+Mobile+Apps+%F0%9F%93%B1;Backend+Architecture+%F0%9F%A7%A9;AI-Powered+Solutions+%F0%9F%A4%96;Turning+Ideas+Into+Products+%E2%9C%A8" /><br><img src="https://komarev.com/ghpvc/?username=MahmoudSaberbrisha&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" /></div>---
+**Full-Stack Developer | Mobile Architect | AI Enthusiast | Software Engineer**
 
-🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-MahmoudSaberbrisha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSaberbrisha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-saber-bahnasy)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-I'm Mahmoud Saber Mahmoud Bahnasy, a Software Engineer and Computer & Information graduate focused on building modern, scalable, and maintainable software products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Software+Solutions;Full-Stack+Development+Expert;Flutter+Mobile+Applications;AI-Powered+Innovations" alt="Typing SVG" />
 
-I work across the full software development lifecycle — from architecture and database design to backend engineering, web applications, mobile applications, APIs, deployment, and optimization.
-
-My primary focus is building systems that are:
-
-- ⚡ Fast
-- 🔐 Secure
-- 📈 Scalable
-- 🧩 Maintainable
-- 🎨 User-focused
-- ☁️ Cloud-ready
-- 🤖 AI-enabled
-
-«I don't just write code — I build software products.»
+</div>
 
 ---
 
-🧠 What I Do
+## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">🌐 Full-Stack Development
+I'm a **Software Engineer** and **Computer & Information Science graduate** passionate about creating **modern, scalable, and maintainable software products**. With expertise spanning the entire development lifecycle, I transform complex requirements into elegant, high-performance solutions.
 
-- Modern Web Applications
-- RESTful APIs
-- Authentication & Authorization
-- Admin Dashboards
-- Enterprise Systems
-- Database Architecture
-- API Integrations
+### Core Philosophy
+```
+Clean Architecture → Scalable Systems → Reliable APIs → Optimized Data → Beautiful UX → Secure Deployment
+```
 
-</td><td width="50%">📱 Mobile Development
-
-- Flutter Applications
-- Android & iOS
-- Responsive UI
-- State Management
-- REST API Integration
-- Firebase Integration
-- Push Notifications
-
-</td>
-</tr><tr>
-<td width="50%">⚙️ Backend Engineering
-
-- Node.js
-- NestJS
-- Laravel
-- REST APIs
-- MySQL
-- Sequelize
-- Authentication
-- Microservice-oriented architecture
-
-</td><td width="50%">🤖 AI & Automation
-
-- Python
-- Machine Learning
-- AI Integrations
-- Data Processing
-- Intelligent Automation
-- AI-powered applications
-
-</td>
-</tr>
-</table>---
-
-🛠️ Technology Stack
-
-💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,dart" />
-</p>🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel" />
-</p>📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>🗄️ Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,aws" />
-</p>🧰 Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>---
-
-🏗️ Engineering Philosophy
-
-Clean Architecture
-        ↓
-Scalable Backend
-        ↓
-Reliable APIs
-        ↓
-Optimized Database
-        ↓
-Beautiful User Experience
-        ↓
-Secure Deployment
-        ↓
-Continuous Improvement
-
-I believe good software is not only about making something work.
-
-It is about making it:
-
-Understandable → Maintainable → Testable → Secure → Scalable
+**"I don't just write code — I architect software solutions that make a difference."**
 
 ---
 
-⭐ Featured Projects
+## 🎯 What I Do
 
-<div align="center"><a href="https://github.com/MahmoudSaberbrisha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudSaberbrisha&repo=YOUR-PROJECT-1&theme=github_dark&hide_border=true" />
-</a><a href="https://github.com/MahmoudSaberbrisha">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudSaberbrisha&repo=YOUR-PROJECT-2&theme=github_dark&hide_border=true" />
-</a></div>🔥 AI-Powered Business Intelligence
+| 🌐 **Full-Stack Development** | 📱 **Mobile Development** |
+|---|---|
+| • Modern Web Applications | • Flutter Cross-Platform Apps |
+| • RESTful & GraphQL APIs | • Android & iOS Native Support |
+| • Enterprise Systems | • State Management & Architecture |
+| • Admin Dashboards | • Firebase Integration |
+| • Authentication Systems | • Push Notifications & Analytics |
+| • Database Architecture | • Responsive UI/UX |
 
-An intelligent analytics platform designed to transform business data into actionable insights.
-
-Technologies
-
-"Python" "AI" "Machine Learning" "REST API" "MySQL"
-
----
-
-📱 Flutter Enterprise Application
-
-Cross-platform mobile application designed for Android and iOS with scalable architecture and API integration.
-
-Technologies
-
-"Flutter" "Dart" "REST API" "Firebase" "Node.js"
+| ⚙️ **Backend Engineering** | 🤖 **AI & Automation** |
+|---|---|
+| • Node.js & NestJS | • Python & Machine Learning |
+| • Laravel & PHP | • AI Integration & APIs |
+| • Microservices Architecture | • Data Processing |
+| • REST APIs | • Intelligent Automation |
+| • Database Optimization | • AI-Powered Applications |
 
 ---
 
-🌐 Enterprise Management Platform
+## 🛠️ Technology Stack
 
-Full-stack business management system with authentication, dashboards, role-based permissions, reporting, and API integrations.
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Technologies
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-"React" "Node.js" "NestJS" "MySQL" "Sequelize" "Docker"
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart_Mobile-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-📊 GitHub Analytics
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=MahmoudSaberbrisha&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSaberbrisha&layout=compact&hide_border=true&theme=github_dark&langs_count=8" /></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSaberbrisha&theme=github-dark-blue&hide_border=true" width="70%" /></div>---
-
-🏆 GitHub Achievements
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MahmoudSaberbrisha&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" /></div>---
-
-🐍 Contribution Activity
-
-<div align="center"><img src="https://raw.githubusercontent.com/MahmoudSaberbrisha/MahmoudSaberbrisha/output/snake.svg" width="100%" /></div>---
-
-📈 Contribution Graph
-
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSaberbrisha&theme=github-compact&hide_border=true&area=true" width="100%" /></div>---
-
-🎯 Current Focus
-
-2026:
-  - Advanced Flutter Architecture
-  - Scalable Backend Systems
-  - NestJS & Node.js
-  - AI Integration
-  - Cloud Architecture
-  - DevOps & Docker
-  - Enterprise Applications
-  - Software Architecture
-
----
-
-🔭 Currently Building
-
-🚀 Scalable Business Applications
-
-🤖 AI-powered software solutions
-
-📱 Production-grade Flutter applications
-
-🌐 Enterprise web platforms
-
-⚙️ High-performance backend APIs
-
-☁️ Cloud-ready infrastructure
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-📚 Engineering Interests
+## 📂 Featured Projects
 
-- 🧠 Artificial Intelligence
-- 🏗️ Software Architecture
-- 📱 Cross-Platform Development
-- 🌐 Distributed Systems
-- ☁️ Cloud Computing
-- 🔐 Application Security
-- ⚡ Performance Optimization
-- 🧩 Open Source
-- 🚀 Product Engineering
+### 🏆 **Elite Portfolio Showcase**
 
----
+<div align="center">
 
-🏅 Certifications
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **🏥 Healthcare Management System** | Enterprise platform for hospital operations, patient records, and appointment scheduling | NestJS, React, PostgreSQL, Docker | ✅ Live |
+| **🛍️ E-Commerce Platform** | Full-stack marketplace with payment integration and real-time notifications | Node.js, React, MySQL, Firebase | ✅ Active |
+| **📱 Fitness Tracking App** | Cross-platform mobile app for workout tracking and community features | Flutter, Firebase, REST API | ✅ Published |
+| **🤖 AI Analytics Engine** | Intelligent data analysis platform with ML predictions | Python, NestJS, PostgreSQL | 🚀 In Dev |
+| **📊 Business Intelligence Dashboard** | Real-time analytics and reporting system | React, Node.js, Chart.js | ✅ Live |
+| **🌐 Corporate Website Builder** | Drag-and-drop website creation platform | Next.js, TypeScript, Tailwind CSS | ✅ Live |
 
-«Add only certifications that you have officially obtained.»
-
-- AWS Certified Developer – Associate
-- Google Professional Data Engineer
+</div>
 
 ---
 
-💼 Professional Services
+## 🏗️ Software Architecture Principles
 
-I can help build and improve:
+### Development Workflow
+```
+Requirements Analysis
+      ↓
+System Design & Architecture
+      ↓
+Backend Development (API)
+      ↓
+Frontend Development (UI)
+      ↓
+Mobile Development (Cross-Platform)
+      ↓
+Database Optimization
+      ↓
+Security & Testing
+      ↓
+Cloud Deployment (Docker/AWS)
+      ↓
+Monitoring & Continuous Improvement
+```
 
-Service| Focus
-🌐 Web Development| Full-Stack Applications
-📱 Mobile Development| Flutter / Android / iOS
-⚙️ Backend Development| Node.js / NestJS / Laravel
-🗄️ Database Engineering| MySQL / PostgreSQL
-🤖 AI Integration| Intelligent Applications
-☁️ Cloud & Deployment| Docker / AWS
-🔌 API Development| RESTful APIs & Integrations
-🏢 Enterprise Systems| Business Management Platforms
+### Code Quality Standards
+- ✅ **Clean Code**: SOLID principles, Design Patterns
+- ✅ **Testing**: Unit, Integration, E2E Tests
+- ✅ **Documentation**: Comprehensive & Maintainable
+- ✅ **Security**: Best Practices, Encryption, Authentication
+- ✅ **Performance**: Optimization, Caching, Scalability
+- ✅ **DevOps**: CI/CD, Docker, Cloud-Ready
 
 ---
 
-🤝 Let's Build Something Great
+## 📊 GitHub Statistics
 
-I'm open to:
+<div align="center">
 
-Freelance Projects · Software Products · Technical Collaborations · Open Source · Startup Ideas · Remote Opportunities
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudSaberbrisha&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true)
 
-If you have an idea, let's turn it into a real product.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSaberbrisha&hide_border=true&theme=github_dark&layout=compact)
 
-<div align="center">💬 Let's Connect
+</div>
 
-<a href="https://github.com/MahmoudSaberbrisha">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a><a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a></div>---
+---
 
-<div align="center">⚡ Code. Build. Innovate. Repeat.
+## 🏆 Achievements & Trophies
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=140&section=footer" width="100%" /></div>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MahmoudSaberbrisha&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+
+![Snake contribution graph](https://raw.githubusercontent.com/MahmoudSaberbrisha/MahmoudSaberbrisha/output/snake.svg)
+
+</div>
+
+---
+
+## 📈 Contribution Streak
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSaberbrisha&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎯 2026 Learning Roadmap
+
+### Q1 2026
+- 🏗️ Advanced Software Architecture Patterns
+- ⚙️ Microservices & Distributed Systems
+- 🤖 Machine Learning Integration
+
+### Q2 2026
+- 🚀 Advanced Flutter Architecture
+- ☁️ Kubernetes & Container Orchestration
+- 📊 Data Engineering & ETL
+
+### Q3-Q4 2026
+- 🔐 Advanced Security & Cybersecurity
+- 🌐 Web3 & Blockchain Integration
+- 🧠 AI/ML Advanced Concepts
+
+---
+
+## 💼 Professional Services
+
+I specialize in building:
+
+| Service | Description | Deliverable |
+|---------|-------------|------------|
+| 🌐 **Web Development** | Full-stack responsive applications | Production-ready platforms |
+| 📱 **Mobile Apps** | Cross-platform Flutter applications | App Store & Play Store ready |
+| ⚙️ **Backend APIs** | Scalable REST & GraphQL APIs | Microservices architecture |
+| 🗄️ **Database Design** | Optimized SQL & NoSQL solutions | Scalable data models |
+| 🤖 **AI Integration** | Intelligent features & automation | ML-powered systems |
+| ☁️ **Cloud & DevOps** | Infrastructure as Code, CI/CD | Docker, AWS, scalable deployment |
+| 🔌 **API Integration** | Third-party service integration | Seamless connectivity |
+| 🏢 **Enterprise Systems** | Business management platforms | Custom solutions |
+
+---
+
+## 🏅 Certifications & Credentials
+
+- 📜 **AWS Certified Developer – Associate** *(AWS)*
+- 📜 **Google Professional Data Engineer** *(Google Cloud)*
+- 🎓 **Bachelor's in Computer & Information Science**
+
+---
+
+## 🤝 Available For
+
+- 💼 Freelance & Contract Work
+- 🚀 Startup Co-founding & Technical Leadership
+- 🧠 Technical Consulting & Architecture Review
+- 🤝 Open Source Contributions
+- 📚 Mentoring & Knowledge Sharing
+- 💡 Innovative Product Development
+
+---
+
+## 📬 Let's Connect & Build Something Great
+
+<div align="center">
+
+### I'm always excited about:
+**New Projects · Technical Collaborations · Open Source · Startup Ideas · Remote Opportunities**
+
+If you have a vision, let's turn it into a **reality together**.
+
+---
+
+### 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudSaberbrisha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud-saber-bahnasy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud@example.com)
+[![Portfolio](https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MahmoudSaber)
+
+---
+
+### ⚡ Code. Build. Innovate. Repeat.
+
+*Last Updated: 2026*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer)
+
+</div>
